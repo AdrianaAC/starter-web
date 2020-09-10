@@ -5,7 +5,7 @@ This is a simple website project for showing how to use GIT and GITHUB together.
 ## Introduction
 
 This example is to show different parts of GIT repository and various commands using a web project.
-Adding a line for rebasing example
+Adding a line for rebasing example. More changes from myfeature branch too.
 ## Purpose
 
 As stated above, the main purpose is to provide simple examples for Git training demos
